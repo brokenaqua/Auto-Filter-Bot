@@ -24,3 +24,5 @@ Pillow
 speedtest-cli
 psutil
 shortzy
+gunicorn
+Flask
